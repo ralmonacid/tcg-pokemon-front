@@ -8,7 +8,7 @@ import { useParams } from "next/navigation";
 import { useEffect, useState } from "react";
 
 export default  function  setPage(){
-  const searchParams = useParams()
+  const searchParams = useParams() 
   const id = searchParams.setId 
   const [cardSet, setCardSet] = useState([])
   const [selectedCard, setSelectedCard] = useState<any>(null); // Para almacenar la carta seleccionada
