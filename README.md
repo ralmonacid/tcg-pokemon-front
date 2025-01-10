@@ -47,4 +47,5 @@ Primero siempre se debe compilar el *Back-End* de esta forma aseguramos que, si 
 npm run dev
 ```
 
-Abrir [http://localhost:3000](http://localhost:3001) en su navegador para ver el resultado
+Abrir [http://localhost:3000](http://localhost:3000)  en su navegador para ver el resultado.
+*Si compiló primero Nest Js debera abrir [http://localhost:3001](http://localhost:3001)*  
